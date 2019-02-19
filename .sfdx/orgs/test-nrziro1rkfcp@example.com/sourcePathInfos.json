@@ -1,0 +1,155 @@
+[
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550236379202,
+            "changeTime": 1550236379202,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550236379202,
+            "changeTime": 1550236379202,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550236972730,
+            "changeTime": 1550236972730,
+            "contentHash": "abed2654d84706c55c2415cd0c6e1c16e94c607b"
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550236379202,
+            "changeTime": 1550236379202,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550236379202,
+            "changeTime": 1550236379202,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550236635499,
+            "changeTime": 1550236635499,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\classes\\TestStandardUser.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\classes\\TestStandardUser.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1550236972714,
+            "changeTime": 1550236972714,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\classes\\TestStandardUser.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\classes\\TestStandardUser.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 32,
+            "modifiedTime": 1550236972714,
+            "changeTime": 1550236972714,
+            "contentHash": "7e74e10517e17090feac97d658027c0ca63976e7"
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18706,
+            "modifiedTime": 1550236972745,
+            "changeTime": 1550236972745,
+            "contentHash": "6a0137ddff8bdd7abf6c1085b7e1ba5cd93b9aea"
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550236972714,
+            "changeTime": 1550236972714,
+            "contentHash": "aa21079622565dfca91c104bd0644ba64831dcff"
+        }
+    ],
+    [
+        "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vkochar\\Desktop\\Test Standard user\\MySfdxProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550236972745,
+            "changeTime": 1550236972745,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
